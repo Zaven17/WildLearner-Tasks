@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WildlearnerTasks</string>
+    <!--MainActivity-->
+    <string name="FirstPageTitle">Please select the task you want to see</string>
+    <string name="Palindrome">Palindrome detection</string>
+    <string name="MinMaxSum">Sum of minimum and maximum elements</string>
+    <string name="NLengthArray">N-Length array with unique items</string>
+    <string name="SnakeToCamel">Snake case to camel case</string>
+
+    <!--PalindromeActivity-->
+    <string name="PalindromeDescription">Please enter one word into the text field and press check
+        to see if it is a Palindrome</string>
+    <string name="PalindromeHint">Please enter a single string</string>
+
+    <!--MaxMinSumActivity-->
+    <string name="MaxMinSumDescription">Please enter integer array inputs by separating them with a
+        space, then press enter to see the sum of the max and min inputs of the array</string>
+    <string name="MaxMinAnswerHint">Here you will see the answer</string>
+    <string name="MaxMinInputHint">Enter integers here</string>
+    <!--NLengthArrayActivity-->
+    <string name="NLengthArrayDesctiption">Please enter one number N for the length of the unique
+    array, then press enter to see the unique array</string>
+    <string name="NLengthInputHint">Enter one number here</string>
+    <string name="NLengthAnswerHint">Here you will see the result</string>
+
+
+    <!--SnakeCaseToCamelCaseActivty-->
+    <string name="SnakeToCamelDesctiption">Please enter one string in snake case, then press
+        enter to see the snake case string converted into camel case string</string>
+    <string name="SnakeToCamelAnswerHint">Here you will see the result</string>
+    <string name="SnakeToCamelInputHint">Enter the string here</string>
+
+
+</resources>
